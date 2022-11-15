@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<title></title>
+
+<head>
+    <script>
+        <!--
+
+        var Grade = 'C'
+        document.write("Entering into a Switch Case Statement <br>" + "<br>")
+        switch (Grade) {
+            case 'A':
+                document.write("Good Grade" + "<br>")
+                break;
+            case 'B':
+                document.write("Can do better <br>")
+                break;
+            case 'C':
+                document.write("Need to improve <br>")
+                break;
+            case 'D':
+                document.write("Pass<br>")
+                break;
+            case 'F':
+                document.write("fail<br>")
+                break;
+            default:
+                document.write("Unknown Grade<br>")
+        }
+        document.write("<br>Jumping out of the switch statement<br>")
+        //-->
+    </script>
+</head>
+
+<body>
+</body>
+
+</html>
